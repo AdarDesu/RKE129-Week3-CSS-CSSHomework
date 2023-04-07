@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+
+body
+{
+    background-color: rgb(30, 30, 30);
+}
+
+.mainheading
+{
+    color: whitesmoke;
+    font-size: 3rem;
+    text-align: center;
+    margin: 1rem auto;
+    font-family: 'Londrina Outline', cursive;
+}
+
+.ingredients
+{
+    background-color: rgb(40, 40, 40);
+    border: 2px solid darkslategray;
+    width: fit-content;
+    margin: 0 auto;
+    color: whitesmoke;
+    display: flex;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.recipetable
+{
+    margin: 10px auto;
+}
+
+.rice
+{
+    height: 6.5rem;
+    padding-bottom: 12px;
+    padding-left: 1rem;
+    margin: 0 auto;
+}
+
+.instructions
+{
+    background-color: rgb(40, 40, 40);
+    border: 2px solid darkslateblue;
+    width: 75%;
+    color: whitesmoke;
+    margin: 1rem auto;
+}
+
+#inst
+{
+    padding-left: 3rem;
+}
+
+.instructionslist
+{
+    background-color: rgb(40, 40, 40);
+    color: whitesmoke;
+    margin: 1rem auto;
+    width: fit-content;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+#listtitle
+{
+    text-decoration: dotted;
+    color: olivedrab;
+}
+
+.help
+{
+    background-color: rgb(40, 40, 40);
+    color: whitesmoke;
+    border: 2px solid darkslategrey;
+    margin: 1rem auto;
+    width: fit-content;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#span
+{
+    text-decoration: underline;
+    color: darkcyan;
+}
+
+.footer
+{
+    color: white;
+    text-align: center;
+}
